@@ -6,7 +6,6 @@
   <a href="https://github.com/fabis-li">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabis-li&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabis-li&layout=compact&langs_count=7&theme=github_dark"/>
-
 </div>
 
 <div style="display: inline_block"><br>
@@ -25,14 +24,6 @@
   <img align="center" alt="sql" height="45" width="45" src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png">
   
 </div>
-
-
-
-
-
-
-
-
 
 <!--
 **Fabis-li/Fabis-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
