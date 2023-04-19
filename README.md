@@ -1,6 +1,6 @@
 ## Hey I'm, Fabiano Lima 👋
 - 🔭 Buscando a primeira oportunidade em Programação
-- 🌱  Finalizado FullStack - DevInHouse - Senai/SC - Turma NDD
+- 🌱 Desenvolvedor FullStack - DevInHouse - Senai/SC - Turma NDD
 
 <div>
   <a href="https://github.com/fabis-li">
