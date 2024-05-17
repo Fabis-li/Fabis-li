@@ -1,6 +1,7 @@
 ## Hey I'm, Fabiano Lima 👋
 - 🔭 Buscando a primeira oportunidade em Programação
 - 🌱 Desenvolvedor FullStack - DevInHouse - Senai/SC - Turma NDD
+- 🌱 Desenvolvedor BackEnd - Cubos Academy - 2023
 - 🌱 Desenvolvedor FullStack - Academia do Programador - 2024
 
 <div>
